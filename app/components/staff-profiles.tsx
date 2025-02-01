@@ -72,11 +72,11 @@ const staffMembers: StaffMember[] = [
   {
     id: 6,
     name: "Hyper",
-    position: "Senior Moderator",
+    position: "Moderator",
     bio: "",
     avatarUrl:
       "https://media.discordapp.net/attachments/1330774197814951968/1335114458653134888/a_7d3007d4c139c82d3ae1d89888467c79.gif?ex=679efdbc&is=679dac3c&hm=bc7fbcdaf8a7df923f2654e8a27dc3c71ff54a0bc7ef51b8824ba0471e3f0218&=",
-    category: "sr_moderator",
+    category: "moderator",
   },
   {
     id: 7,
