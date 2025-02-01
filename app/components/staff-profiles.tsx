@@ -19,7 +19,7 @@ const staffMembers: StaffMember[] = [
     position: "Founder",
     bio: "This is a fan made project and not endorsed by BeluGANG staff team",
     avatarUrl:
-      "https://media.discordapp.net/attachments/1330941608912228413/1334391345967534130/f3942f3d1e7dcd7d1d1b82982072c57c.png?ex=679c5c48&is=679b0ac8&hm=dff3b44e178a231e623ed240e25d6a29ea6a65f9239f8700a3a9605c478d64a8&=&format=webp&quality=lossless",
+      "https://media.discordapp.net/attachments/1330941608912228413/1334391345967534130/f3942f3d1e7dcd7d1d1b82982072c57c.png?ex=679eff48&is=679dadc8&hm=031e934238480c55fb8a684160f2590e7e3bd3cc6fa49edda40171a5bf577cee&=&format=webp&quality=lossless",
     category: "owner",
   },
   // Admins
@@ -29,7 +29,7 @@ const staffMembers: StaffMember[] = [
     position: "Administrator",
     bio: "",
     avatarUrl:
-      "https://media.discordapp.net/attachments/1330941608912228413/1334388350357995541/c768fa061aa092005f2d9f14c5ec33b1.png?ex=679c597e&is=679b07fe&hm=ab4b96bde9b045c77003748257c09db4121d5f82b3d6074bc4f25789a33f660d&=&format=webp&quality=lossless",
+      "https://media.discordapp.net/attachments/1330941608912228413/1334388350357995541/c768fa061aa092005f2d9f14c5ec33b1.png?ex=679efc7e&is=679daafe&hm=0640721582945ceaac6bde7024825f9e1e7e3e49854c88e3a49db8ac9099700b&=&format=webp&quality=lossless",
     category: "admin",
   },
   {
@@ -38,7 +38,7 @@ const staffMembers: StaffMember[] = [
     position: "Administrator",
     bio: "",
     avatarUrl:
-      "https://media.discordapp.net/attachments/1330941608912228413/1334389180134068224/a_3c11ed6215d589fd0c17ecb35728c33c.gif?ex=679c5a44&is=679b08c4&hm=fdb9b6f493cd0ade5989991acbdf2ead8911fd1d9dd12a3060abea46b58fc0a1&=",
+      "https://media.discordapp.net/attachments/1330941608912228413/1334389180134068224/a_3c11ed6215d589fd0c17ecb35728c33c.gif?ex=679efd44&is=679dabc4&hm=f80e38141f9439dd56333ac3e42ee696cc38cd3ac3a347c44947b96bc8659d18&=",
     category: "admin",
   },
   {
@@ -47,7 +47,7 @@ const staffMembers: StaffMember[] = [
     position: "Administrator",
     bio: "",
     avatarUrl:
-      "https://media.discordapp.net/attachments/1330941608912228413/1334389785921458176/10862d4f41f2cb15e81326ecc3590c96.png?ex=679c5ad4&is=679b0954&hm=02b75557a6755d37036d035aca4c199d377fcb5fa82b24c2beb8d271ac1a9632&=&format=webp&quality=lossless",
+      "https://media.discordapp.net/attachments/1330941608912228413/1334389785921458176/10862d4f41f2cb15e81326ecc3590c96.png?ex=679efdd4&is=679dac54&hm=d1e92eeb88e7e4915f99d9e30a3ce0445ab9ef324c0bf563fb5f0cf187927a64&=&format=webp&quality=lossless",
     category: "admin",
   },
   {
@@ -56,7 +56,7 @@ const staffMembers: StaffMember[] = [
     position: "Administrator",
     bio: "",
     avatarUrl:
-      "https://media.discordapp.net/attachments/1330941608912228413/1334390102373171283/54f99565617da6d672954cef750fe60d.png?ex=679c5b20&is=679b09a0&hm=a444e9e6c2e156013574c4f070aa5be00e29e22ef2b7949a738a0f178f759448&=&format=webp&quality=lossless",
+      "https://media.discordapp.net/attachments/1330941608912228413/1334390102373171283/54f99565617da6d672954cef750fe60d.png?ex=679efe20&is=679daca0&hm=3c3d8c4774490b11e75edd08af99ce979d75cd0ffea8e7e2a7b182da06611b64&=&format=webp&quality=lossless",
     category: "admin",
   },
   // Sr. Moderators
@@ -66,7 +66,7 @@ const staffMembers: StaffMember[] = [
     position: "Senior Moderator",
     bio: "",
     avatarUrl:
-      "https://media.discordapp.net/attachments/1330941608912228413/1334394054267637782/e666e8b695a7d2a0413e0c49d8fb8d1a.png?ex=679c5ece&is=679b0d4e&hm=7b84730e922696e42706e23d4f2996cb8e7bf93e1056ae63a51322ad10dacf73&=&format=webp&quality=lossless&width=350&height=350",
+      "https://media.discordapp.net/attachments/1330941608912228413/1334394054267637782/e666e8b695a7d2a0413e0c49d8fb8d1a.png?ex=679f01ce&is=679db04e&hm=ee5d5f3ad764d731ba64d26cdf6dec9cb72cfffb04c8a531b86d8c740ab597cd&=&format=webp&quality=lossless&width=799&height=799",
     category: "sr_moderator",
   },
   {
@@ -84,7 +84,43 @@ const staffMembers: StaffMember[] = [
     position: "Senior Moderator",
     bio: "",
     avatarUrl:
-      "https://media.discordapp.net/attachments/1330941608912228413/1334394063860011089/c6d82c2d4833270fe42574b6ba6dfe75.png?ex=679c5ed0&is=679b0d50&hm=6f0e4380e6ead6a03a05dd40387a406c510582b89c6a00b0922ce2680af818f2&=&format=webp&quality=lossless",
+      "https://media.discordapp.net/attachments/1330941608912228413/1334394063860011089/c6d82c2d4833270fe42574b6ba6dfe75.png?ex=679f01d0&is=679db050&hm=1d7b544e2c5685a9647aea9cc85e6035d458ba76836abe615f4ab2096881690d&=&format=webp&quality=lossless",
+    category: "sr_moderator",
+  },
+  {
+    id: 7,
+    name: "Muncher Roblox",
+    position: "Senior Moderator",
+    bio: "",
+    avatarUrl:
+      "https://media.discordapp.net/attachments/1330941608912228413/1335225276124106772/a_5cca00b88ea462374a01073cbfc90cb0.gif?ex=679f64f1&is=679e1371&hm=c342842dc407a92ccbe8e1a6de6c27e84ccbc393662c7bc54252326aeaf9d6f0&=&width=350&height=350",
+    category: "sr_moderator",
+  },
+   {
+    id: 7,
+    name: "sadie",
+    position: "Senior Moderator",
+    bio: "",
+    avatarUrl:
+      "https://media.discordapp.net/attachments/1330941608912228413/1335231840407126067/a8c20eafa87c38477def90bcbba2d951.png?ex=679f6b0e&is=679e198e&hm=ab6098141b8938a9293aca5ea69893de14d214a3f16ad64bcd603084a6e2d4a6&=&format=webp&quality=lossless&width=350&height=350",
+    category: "sr_moderator",
+  },
+  {
+    id: 7,
+    name: "Chespin",
+    position: "Senior Moderator",
+    bio: "",
+    avatarUrl:
+      "https://media.discordapp.net/attachments/1330941608912228413/1335228266201616446/3263e6cd32779ef7d9c8d077c54bd67c.png?ex=679f67ba&is=679e163a&hm=2ad749399e0c72db69f945eb117a744f30588e20a9712faa5426a1c01e4f329a&=&format=webp&quality=lossless",
+    category: "sr_moderator",
+  },
+  {
+    id: 7,
+    name: "Sidney",
+    position: "Senior Moderator",
+    bio: "",
+    avatarUrl:
+      "https://media.discordapp.net/attachments/1330941608912228413/1335222102802042940/a63016d1a8df859769c75891b0aef660.png?ex=679f61fc&is=679e107c&hm=9cc9d47abcaa86132a9549d56f35ad565e6a121e24ba1ec6c619956a0f80ad7f&=&format=webp&quality=lossless",
     category: "sr_moderator",
   },
   {
@@ -93,7 +129,7 @@ const staffMembers: StaffMember[] = [
     position: "Senior Moderator",
     bio: "",
     avatarUrl:
-      "https://media.discordapp.net/attachments/1330941608912228413/1334843962418139198/a_33e3bf50a6263231804ddcdc376c6e68.gif?ex=679e01d0&is=679cb050&hm=2c84c42aab707d7755d1b80429d6ef71999b9cb60e21c9264f497ac95894f08c&=",
+      "https://media.discordapp.net/attachments/1330941608912228413/1334843962418139198/a_33e3bf50a6263231804ddcdc376c6e68.gif?ex=679eaa90&is=679d5910&hm=cd4e94034ea9f3069082995271dc6d0e3c3fc7822d67daaac1ff1aa7ea0b1640&=",
     category: "sr_moderator",
   },
   // Moderators
@@ -103,7 +139,7 @@ const staffMembers: StaffMember[] = [
     position: "Moderator",
     bio: "",
     avatarUrl:
-      "https://media.discordapp.net/attachments/1330941608912228413/1334394680841867326/4edb64616440ca579d190bbd96537ea7.png?ex=679c5f63&is=679b0de3&hm=2f761c02a0c194dfb277fdbfca899b7a051920e78262b5ed300e6bec3f96ca2b&=&format=webp&quality=lossless",
+      "https://media.discordapp.net/attachments/1330941608912228413/1334394680841867326/4edb64616440ca579d190bbd96537ea7.png?ex=679f0263&is=679db0e3&hm=d0bc082d0ff087efcbaee3e0b62a43c101cb87b168a80a5a05a2b54cc41d18fb&=&format=webp&quality=lossless",
     category: "moderator",
   },
   {
@@ -112,7 +148,7 @@ const staffMembers: StaffMember[] = [
     position: "Moderator",
     bio: "",
     avatarUrl:
-      "https://media.discordapp.net/attachments/1330941608912228413/1334394656460378153/71aca646a275df62fdca1c75dfdcadc2.png?ex=679c5f5d&is=679b0ddd&hm=85d9352d1157085ede92c5d8ed4c6c126332638dcf9ebf4070ab255fc6bf93af&=&format=webp&quality=lossless",
+      "https://media.discordapp.net/attachments/1330941608912228413/1334394656460378153/71aca646a275df62fdca1c75dfdcadc2.png?ex=679f025d&is=679db0dd&hm=afe334632613b1ffc026df8e678a7652edf67705ec90bec34024bd0c9424779b&=&format=webp&quality=lossless",
     category: "moderator",
   },
   {
@@ -121,7 +157,7 @@ const staffMembers: StaffMember[] = [
     position: "Moderator",
     bio: "",
     avatarUrl:
-      "https://media.discordapp.net/attachments/1330941608912228413/1334844191758614592/93e5a470f5724d684b2810afd654bff4.png?ex=679e0207&is=679cb087&hm=3584e2407e689b4afa38a871b3be3fd0e6032375c7717ae4e1be1d2dcdd42afc&=&format=webp&quality=lossless",
+      "https://media.discordapp.net/attachments/1330941608912228413/1334844191758614592/93e5a470f5724d684b2810afd654bff4.png?ex=679eaac7&is=679d5947&hm=c2bf5e269605702012ff2c36a66572f60573ddf4cec98ef2ae436b8a91e18420&=&format=webp&quality=lossless",
     category: "moderator",
   },
   {
@@ -130,7 +166,7 @@ const staffMembers: StaffMember[] = [
     position: "Moderator",
     bio: "",
     avatarUrl:
-      "https://media.discordapp.net/attachments/1330941608912228413/1334844011382313093/3e2fc7a22f8aeb05ee85f3988ebd969f.png?ex=679e01dc&is=679cb05c&hm=25f30573006fec2046bac33654d9d2770b6bdd882249852bf655194e4aa4c49c&=&format=webp&quality=lossless&width=799&height=799",
+      "https://media.discordapp.net/attachments/1330941608912228413/1334844011382313093/3e2fc7a22f8aeb05ee85f3988ebd969f.png?ex=679eaa9c&is=679d591c&hm=27337e499175aedf58d4b07989cac4f468b2f08da9dbcd62175560fa2478b322&=&format=webp&quality=lossless&width=799&height=799",
     category: "moderator",
   },
   {
@@ -158,6 +194,105 @@ const staffMembers: StaffMember[] = [
     bio: "",
     avatarUrl:
       "https://media.discordapp.net/attachments/1330774197814951968/1335114459378618378/90d7c275721d57933bf6fdf352fe4a56.png?ex=679efdbc&is=679dac3c&hm=cc4568c2f03bf95e1c39a521327e7d1a34e909bf664283d198c8e857ea46b351&=&format=webp&quality=lossless",
+    category: "moderator",
+  },
+  {
+    id: 14,
+    name: "Gabriel",
+    position: "Moderator",
+    bio: "",
+    avatarUrl:
+      "https://media.discordapp.net/attachments/1330941608912228413/1335222103317807104/c0510a43944ef2a562ff8f115ca25ffe.png?ex=679f61fc&is=679e107c&hm=1aff19b9eea50df9beee3626a5bf8f6aa8569a29a57de51d13f88e89f5fd4fdf&=&format=webp&quality=lossless",
+    category: "moderator",
+  },
+  {
+    id: 14,
+    name: "Momo",
+    position: "Moderator",
+    bio: "",
+    avatarUrl:
+      "https://media.discordapp.net/attachments/1330941608912228413/1335224828680212481/6f8e213b4bb3d844b6c20b20b985c60b.png?ex=679f6486&is=679e1306&hm=734ae4560f4f725cf68c3b5118cf065f75a115678e3271278bc824b609568d7d&=&format=webp&quality=lossless",
+    category: "moderator",
+  },
+  {
+    id: 14,
+    name: "Yo Cat",
+    position: "Moderator",
+    bio: "",
+    avatarUrl:
+      "https://media.discordapp.net/attachments/1330941608912228413/1335226213786058823/d580a5f505a32dfd91c864b4fbc82bd2.png?ex=679f65d0&is=679e1450&hm=2c928247a2b504147a9ae534d73c9323e4df761c8c808a537a22c4f6adf34ddd&=&format=webp&quality=lossless&width=799&height=799",
+    category: "moderator",
+  },
+  {
+    id: 14,
+    name: "padme fish",
+    position: "Moderator",
+    bio: "",
+    avatarUrl:
+      "https://media.discordapp.net/attachments/1330941608912228413/1335226217225519246/90d7a793ee521190b765fc9ef31708fd-2.png?ex=679f65d1&is=679e1451&hm=2a90fb6c492468d3d8607c84075079448e760c27513df8292f7504268f5d813e&=&format=webp&quality=lossless",
+    category: "moderator",
+  },
+  {
+    id: 14,
+    name: "Han solo",
+    position: "Moderator",
+    bio: "",
+    avatarUrl:
+      "https://media.discordapp.net/attachments/1330941608912228413/1335226896312434749/cc22c2b41b9a9fce25c8f2adb4f0176b.png?ex=679f6673&is=679e14f3&hm=1b2e36808ca8baba6741781c8fbe14a8c0a13b966f7dbb78879e591aaff69c6d&=&format=webp&quality=lossless",
+    category: "moderator",
+  },
+  {
+    id: 14,
+    name: "Cold",
+    position: "Moderator",
+    bio: "",
+    avatarUrl:
+      "https://media.discordapp.net/attachments/1330941608912228413/1335227447343321110/a_3a725be1538a722b21c1184f34aaebdc.gif?ex=679f66f6&is=679e1576&hm=811b40e2d5caab5171974031dfdd7c3a862441b2106f5f29c04a5aa7825800c9&=",
+    category: "moderator",
+  },
+  {
+    id: 14,
+    name: "AngleTwo",
+    position: "Moderator",
+    bio: "",
+    avatarUrl:
+      "https://media.discordapp.net/attachments/1330941608912228413/1335292261193351239/d34632bbbb0249e45c5d81357043730b.png?ex=679fa353&is=679e51d3&hm=2559f62c053d3627d405413166a266de771b06b014de0f52fed0620a2410fc2b&=&format=webp&quality=lossless",
+    category: "moderator",
+  },
+  {
+    id: 14,
+    name: "Shadowstar",
+    position: "Moderator",
+    bio: "",
+    avatarUrl:
+      "https://media.discordapp.net/attachments/1330941608912228413/1335293425721016431/fe566cf7268b2c1711ca94984643a6e3.png?ex=679fa469&is=679e52e9&hm=385460d40aa1bf75bf3a8880728827d73e466734328f918cb2a7fe7c57bf7f82&=&format=webp&quality=lossless",
+    category: "moderator",
+  },
+  {
+    id: 14,
+    name: "Zalix",
+    position: "Moderator",
+    bio: "",
+    avatarUrl:
+      "https://media.discordapp.net/attachments/1330941608912228413/1335291376086155386/a_8a33bc10b5b70accee6d995835ab5804.gif?ex=679fa280&is=679e5100&hm=a9c0007a6be9a131231e3c38c75bd67ac5cde8db15a560f3eb166af1ddbc1d55&=",
+    category: "moderator",
+  },
+  {
+    id: 14,
+    name: "Rambo",
+    position: "Moderator",
+    bio: "",
+    avatarUrl:
+      "https://media.discordapp.net/attachments/1330941608912228413/1335291405559398430/7e183e470635a4e733e9611e103140ae.png?ex=679fa287&is=679e5107&hm=69cfda2dbfa095571d570d864d9869fa785fa0d4b1513d026aa63473f3cda16a&=&format=webp&quality=lossless",
+    category: "moderator",
+  },
+  {
+    id: 14,
+    name: "Grim Reaper",
+    position: "Moderator",
+    bio: "",
+    avatarUrl:
+      "https://media.discordapp.net/attachments/1330941608912228413/1335291428884058255/8a46d1ee22fd7610aa051558dc8a0585.png?ex=679fa28d&is=679e510d&hm=3b6bb772be8585b5fe59b28f200faac2d2a15c9a0f9e169a1de4c93437c94cdd&=&format=webp&quality=lossless",
     category: "moderator",
   },
 ]
