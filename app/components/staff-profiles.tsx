@@ -19,7 +19,7 @@ const staffMembers: StaffMember[] = [
     position: "Founder",
     bio: "This is a fan made project and not endorsed by BeluGANG staff team",
     avatarUrl:
-      "https://media.discordapp.net/attachments/1330941608912228413/1334391345967534130/f3942f3d1e7dcd7d1d1b82982072c57c.png?ex=679eff48&is=679dadc8&hm=031e934238480c55fb8a684160f2590e7e3bd3cc6fa49edda40171a5bf577cee&=&format=webp&quality=lossless",
+      "https://media.discordapp.net/attachments/1338434427335999511/1341614193316466699/8302-beluga-pfpsgg.png?ex=67b6a315&is=67b55195&hm=9e49fc95d71410c84100342cdda942591ea437e9e73cd994f0f69a5d631653ee&=&format=webp&quality=lossless",
     category: "owner",
   },
   // Admins
