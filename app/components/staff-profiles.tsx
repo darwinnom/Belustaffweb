@@ -29,7 +29,7 @@ const staffMembers: StaffMember[] = [
     position: "Administrator",
     bio: "",
     avatarUrl:
-      "https://media.discordapp.net/attachments/1330941608912228413/1334388350357995541/c768fa061aa092005f2d9f14c5ec33b1.png?ex=679efc7e&is=679daafe&hm=0640721582945ceaac6bde7024825f9e1e7e3e49854c88e3a49db8ac9099700b&=&format=webp&quality=lossless",
+      "",
     category: "admin",
   },
   {
