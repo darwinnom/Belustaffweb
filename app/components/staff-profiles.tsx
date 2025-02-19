@@ -17,7 +17,7 @@ const staffMembers: StaffMember[] = [
     id: 1,
     name: "Beluga",
     position: "Founder",
-    bio: "This is a fan made project and not endorsed by BeluGANG staff team",
+    bio: "This is a fan made project and not endorsed by BeluGANG Staff Team",
     avatarUrl:
       "https://media.discordapp.net/attachments/1338434427335999511/1341614193316466699/8302-beluga-pfpsgg.png?ex=67b6a315&is=67b55195&hm=9e49fc95d71410c84100342cdda942591ea437e9e73cd994f0f69a5d631653ee&=&format=webp&quality=lossless",
     category: "owner",
