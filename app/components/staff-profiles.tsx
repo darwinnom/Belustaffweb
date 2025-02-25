@@ -38,7 +38,7 @@ const staffMembers: StaffMember[] = [
     position: "Administrator",
     bio: "",
     avatarUrl:
-      "https://media.discordapp.net/attachments/1330941608912228413/1334389180134068224/a_3c11ed6215d589fd0c17ecb35728c33c.gif?ex=679efd44&is=679dabc4&hm=f80e38141f9439dd56333ac3e42ee696cc38cd3ac3a347c44947b96bc8659d18&=",
+      "",
     category: "admin",
   },
   {
@@ -47,7 +47,7 @@ const staffMembers: StaffMember[] = [
     position: "Administrator",
     bio: "",
     avatarUrl:
-      "https://media.discordapp.net/attachments/1330941608912228413/1334389785921458176/10862d4f41f2cb15e81326ecc3590c96.png?ex=679efdd4&is=679dac54&hm=d1e92eeb88e7e4915f99d9e30a3ce0445ab9ef324c0bf563fb5f0cf187927a64&=&format=webp&quality=lossless",
+      "",
     category: "admin",
   },
   {
@@ -56,7 +56,7 @@ const staffMembers: StaffMember[] = [
     position: "Administrator",
     bio: "",
     avatarUrl:
-      "https://media.discordapp.net/attachments/1330941608912228413/1334390102373171283/54f99565617da6d672954cef750fe60d.png?ex=679efe20&is=679daca0&hm=3c3d8c4774490b11e75edd08af99ce979d75cd0ffea8e7e2a7b182da06611b64&=&format=webp&quality=lossless",
+      "",
     category: "admin",
   },
   // Sr. Moderators
@@ -66,7 +66,7 @@ const staffMembers: StaffMember[] = [
     position: "Senior Moderator",
     bio: "",
     avatarUrl:
-      "https://media.discordapp.net/attachments/1330941608912228413/1334394054267637782/e666e8b695a7d2a0413e0c49d8fb8d1a.png?ex=679f01ce&is=679db04e&hm=ee5d5f3ad764d731ba64d26cdf6dec9cb72cfffb04c8a531b86d8c740ab597cd&=&format=webp&quality=lossless&width=799&height=799",
+      "",
     category: "sr_moderator",
   },
   {
@@ -75,7 +75,7 @@ const staffMembers: StaffMember[] = [
     position: "Moderator",
     bio: "",
     avatarUrl:
-      "https://media.discordapp.net/attachments/1330774197814951968/1335114458653134888/a_7d3007d4c139c82d3ae1d89888467c79.gif?ex=679efdbc&is=679dac3c&hm=bc7fbcdaf8a7df923f2654e8a27dc3c71ff54a0bc7ef51b8824ba0471e3f0218&=",
+      "",
     category: "moderator",
   },
   {
@@ -84,7 +84,7 @@ const staffMembers: StaffMember[] = [
     position: "Senior Moderator",
     bio: "",
     avatarUrl:
-      "https://media.discordapp.net/attachments/1330941608912228413/1334394063860011089/c6d82c2d4833270fe42574b6ba6dfe75.png?ex=679f01d0&is=679db050&hm=1d7b544e2c5685a9647aea9cc85e6035d458ba76836abe615f4ab2096881690d&=&format=webp&quality=lossless",
+      "",
     category: "sr_moderator",
   },
   {
